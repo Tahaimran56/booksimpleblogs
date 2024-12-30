@@ -29,7 +29,7 @@ export const books = [
       slug: "rich-dad-poor-dad",
       image: "/images/Rich dad poor dad.webp",
       description: "A personal finance classic.",
-      content: "Book SummaryThe 48 Laws of Power, by Robert Greene. In The 48 Laws of Power, Robert Greene asserts that whether you like it or not, you're part of a never-ending game of power. You're either striving for and wielding power, or you're a pawn being played by someone more powerful than you. You choose your role.The real assets are those that you put your money into. In summary, the Rich Dad, Poor Dad book is about accumulating financial knowledge in order to be financially free from the traps. It must help you attain the socially accepted goals of the financial security.",
+      content: " You choose your role.The real assets are those that you put your money into. In summary, the Rich Dad, Poor Dad book is about accumulating financial knowledge in order to be financially free from the traps. It must help you attain the socially accepted goals of the financial security.",
     },
     {
       id: 5,
